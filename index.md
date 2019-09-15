@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Content Showcase
+description: Repository of educational and personal content
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
