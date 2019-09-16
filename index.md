@@ -1,6 +1,6 @@
 ---
 title: Content Showcase
-description: Repository of educational and personal content
+description: Repository of personal and educational projects
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
