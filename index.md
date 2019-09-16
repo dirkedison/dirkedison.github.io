@@ -1,6 +1,7 @@
 ---
 title: Content Showcase
 description: Repository of personal and educational projects
+
 ---
 
 Content from my MSBA course.
